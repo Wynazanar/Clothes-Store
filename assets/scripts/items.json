@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "male",
+        "name": "Men's Shirt",
+        "brand": "Brand Name",
+        "rating": "★★★★★",
+        "price": "$75.00",
+        "stock": "In Stock",
+        "image": "assets/images/cards/male-item.jpg"
+    },
+    {
+        "id": 2,
+        "category": "female",
+        "name": "Women's Dress",
+        "brand": "Another Brand",
+        "rating": "★★★★★",
+        "price": "$120.00",
+        "stock": "Almost Sold Out",
+        "image": "assets/images/cards/female-item.jpg"
+    },
+]
